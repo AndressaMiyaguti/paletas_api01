@@ -7,5 +7,10 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "cSpell.words": [
+    "compartilhamento",
+    "comumente"
+  ]
 }
+/* Configurações necessárias para mantermos o código devidamente formatado,  */

@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leonardo-KF/C009-revisao.git"
+    "url": "https://github.com/AndressaMiyaguti/paletas_api01"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Leonardo-KF/C009-revisao/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Leonardo-KF/C009-revisao#readme",
+  "homepage": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3"
